@@ -3,7 +3,7 @@ Contributors: Keiser Media
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=billing@katalystvideoplus.com&item_name=Donation+for+myCRED+Video+for+KVP
 Tags: mycred, youtube, video, kvp, points
 Requires at least: 3.8
-Tested up to: 4.1
+Tested up to: 4.2
 Stable tag: 1.0.0
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
